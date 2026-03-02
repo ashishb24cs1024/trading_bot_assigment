@@ -1,0 +1,8 @@
+2026-02-28 12:00:00,123 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-02-28 12:00:01,456 - INFO - Order response: {'orderId': 12345678, 'status': 'NEW', 'executedQty': '0.000', 'avgPrice': '0.000'}
+
+2026-02-28 12:05:00,789 - INFO - Placing order: BTCUSDT SELL LIMIT 0.001 60000.0
+2026-02-28 12:05:01,012 - INFO - Order response: {'orderId': 87654321, 'status': 'NEW', 'executedQty': '0.000', 'avgPrice': '0.000'}
+2026-03-02 10:13:18,608 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None None
+2026-03-02 10:13:22,170 - ERROR - Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-02 10:13:22,203 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
